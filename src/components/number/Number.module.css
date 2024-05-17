@@ -1,0 +1,82 @@
+.a {
+    height: 80vh;
+    background-color: rgb(236, 235, 235);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+    padding: 40px 0px;
+}
+.aa {
+    height: 50%;
+    /* background-color: aqua; */
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+.a1{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    padding: 0px 10px;
+    border-radius: 10px;
+}
+.a1 h1{
+    font-size: 45px;
+}
+.a2 {
+    width: 30%;
+    height: 100%;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px; 
+    background-color: white;
+    padding: 0px 10px;
+    border-radius: 10px;
+}
+.a2 h1 {
+    font-size: 40px;
+    color: red;
+}
+.a2 span {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+    color: rgb(68, 68, 68);
+}
+.a2 p {
+    font-size: 20px
+}
+.a3 {
+    width: 30%;
+    height: 100%;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    background-color: red;
+    padding: 0px 10px;
+    color: white;
+    border-radius: 10px;
+}
+.a3 h1 {
+    font-size: 40px;
+    color: white;
+}
+.a3 span {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+    color: rgb(242, 242, 242);
+}
+.a3 p {
+    font-size: 20px;
+}

@@ -1,0 +1,21 @@
+.a {
+   
+    height: 83vh;
+    background-image: url(/a1.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    color: black;
+    padding-left: 20px;
+    background-size: cover;
+}
+.text {
+    width: 470px;
+    /* background-color: red; */
+}
+.a h1 {
+    font-size: 50px;
+}
+.a1 h1 span {
+    color: red;
+}

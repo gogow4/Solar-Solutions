@@ -1,0 +1,82 @@
+.a {
+    /* background-color: red; */
+    padding: 20px;
+    height: 90vh;
+    /* background-color: red; */
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    gap: 60px;
+    /* margin-left: 120px; */
+}
+
+
+.a1 h1{
+    font-size: 40px;
+}
+.a2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    width: 100%;
+}
+.b1 {
+    
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    flex-direction: column;
+    gap: 20px;
+    background-image: url(/meeting.jpg);
+    background-size: cover;
+    width: 25%;
+    height: 45vh;
+    color: white;
+    border-radius: 15px;
+    padding: 20px;
+}
+.b2 {
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    flex-direction: column;
+    gap: 20px;
+    background-image: url(/injener.jpg);
+    background-size: cover;
+    width: 25%;
+    height: 45vh;
+    color: white;
+    border-radius: 15px;
+    padding: 20px;
+}
+.b3 {
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    flex-direction: column;
+    gap: 20px;
+    background-image: url(/internet.jpg);
+    background-size: cover;
+    width: 25%;
+    height: 45vh;
+    color: white;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.b4 {
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    flex-direction: column;
+    gap: 40px;
+    background-image: url(/phone.jpg);
+    background-size: cover;
+    width: 25%;
+    height: 45vh;
+    color: white;
+    border-radius: 15px;
+    padding: 20px;
+}
